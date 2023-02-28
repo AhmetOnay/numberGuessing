@@ -7,7 +7,7 @@ fun main() {
     } while (!random.isEachDigitUnique())
 
 
-    println(random)
+    //println(random)
     do{
         print("Guess the 4 Digits: ")
         val rand = random.toString().toCharArray().toList()
